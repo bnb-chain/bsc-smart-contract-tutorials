@@ -20,7 +20,7 @@ truffle compile
 
 ## Migrate
 
-The following command will compile our contract and deploy it to the Binance Smart Chain testnet. The deployment process may take a few minutes, and you will see a log of the status updates in your terminal.
+The following command will compile our contract and deploy it to the BNBe Smart Chain testnet. The deployment process may take a few minutes, and you will see a log of the status updates in your terminal.
 ```
 truffle migration --network testnet
 ```
@@ -42,7 +42,7 @@ To access the Truffle environment, run the following command:
 ```
 truffle console --network testnet
 ```
-This will connect you to the `Binance Smart Chain testnet`.
+This will connect you to the `BNBe Smart Chain testnet`.
 
 Next, retrieve your deployed `HelloWorld` smart contract:
 ```
