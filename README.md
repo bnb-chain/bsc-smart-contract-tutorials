@@ -1,6 +1,6 @@
 # Bsc Smart-contract tutorials
 
-This repository offers tutorials on various interesting domains for creating smart contracts in the Binance Smart Chain. Below is a brief list of the tutorials that are available in this repository:
+This repository offers tutorials on various interesting domains for creating smart contracts in the BNBe Smart Chain. Below is a brief list of the tutorials that are available in this repository:
 - [Hello World](./docs/HelloWorld.md)
 - [Fungible Tokens](./docs/FungibleToken.md)
 - [Non-fungible Tokens](./docs/NonFungibleToken.md)

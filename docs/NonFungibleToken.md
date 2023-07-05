@@ -67,7 +67,7 @@ As contract can inherit from different interfaces, there may be issues in knowin
 
 ### 1.3 - Create the ERC165 interface
 
-As Binance Chain is compatible with the `Ethereum Virtual Machine (EVM)`, it's possible to connect `ERC` interfaces with BEP contracts. We'll explain these two concepts in later parts of this tutorial.
+As BNB Chain is compatible with the `Ethereum Virtual Machine (EVM)`, it's possible to connect `ERC` interfaces with BEP contracts. We'll explain these two concepts in later parts of this tutorial.
 
 In the case of `BEP721`, which we'll use in this tutorial, it uses the `ERC165` tool to enhance the contract's clarity.
 
@@ -103,7 +103,7 @@ This function is a view fuction that takes an bytes4 interface id and returns a 
 
 #### 1.4.1 - What is a BNB Evolution Proposal (BEP)?
 
-Similar to the `Ethereum request for comment`, `BNB Evolution Proposal` (BEP) refers to a set of predefined token management rules and criteria that facilitate the launch of on-chain assets on the Binance Chain. By following the BEP guidelines, projects can seamlessly transition their tokens from their original mainnet to the Binance Chain, leveraging its superior speed, efficiency, and security features.
+Similar to the `Ethereum request for comment`, `BNB Evolution Proposal` (BEP) refers to a set of predefined token management rules and criteria that facilitate the launch of on-chain assets on the BNBe Chain. By following the BEP guidelines, projects can seamlessly transition their tokens from their original mainnet to the BNBe Chain, leveraging its superior speed, efficiency, and security features.
 
 **Note**: To view the various BEP proposals, please refer to the following [GitHub repository](https://github.com/bnb-chain/BEPs).
 
