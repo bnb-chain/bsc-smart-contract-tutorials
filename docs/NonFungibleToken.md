@@ -16,13 +16,13 @@ To run this project, the following settings are required:
     - `npm install -g truffle@5.4.18`
     - [Truffle page](https://trufflesuite.com/docs/truffle/how-to/install/)
 - Metamask Account:
-    - [MetaMask For BNB Smart Chain](https://docs.bnbchain.org/docs/wallet/metamask/)
+    - [MetaMask For BNB Smart Chain](https://support.metamask.io/network-profiles/network-profile-bnb-smart-chain-bnb/)
 
 **Notes**:
 - For this project, we decided to use these versions of Nodejs and Truffle. Later versions may work;
 - If you run an M1 OS and encounter an error `Are you connected to the internet?`, read the following chat: [M1 'truffle-nodejs' issue](https://github.com/trufflesuite/truffle/issues/4431#issuecomment-969520019);
 - Don't forget to add BNB testnet tokens to your Metamask account before migrating the smart-contract ([Airdrop website](https://testnet.bnbchain.org/faucet-smart));
-- We chose to use Truffle to deploy our contract, but there are other methods available for deploying and compiling contracts. You can find more information on alternative methods on this [website](https://docs.bnbchain.org/docs/bsc-tutorials#smart-contracts).
+- We chose to use Truffle to deploy our contract, but there are other methods available for deploying and compiling contracts.
 - One of the requirements to deploy a smart-contract is to use a Software Package Data Exchange (SPDX) licence. SPDX is a standard for communicating software licenses in a machine-readable format. You can find more information on the different free SPDX on this [website](https://spdx.org/licenses/).
 
 
