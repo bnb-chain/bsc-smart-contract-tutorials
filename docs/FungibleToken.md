@@ -85,7 +85,7 @@ To deploy this contract, the following settings are required:
     - `npm install -g truffle@5.4.18`
     - [Truffle page](https://trufflesuite.com/docs/truffle/how-to/install/)
 - Metamask Account:
-    - [MetaMask For BNB Smart Chain](https://docs.bnbchain.org/docs/wallet/metamask/)
+    - [MetaMask For BNB Smart Chain](https://support.metamask.io/network-profiles/network-profile-bnb-smart-chain-bnb/)
 
 To test the transfer, approve and transferFrom functions of the smart contract, it is required that you have 2 different accounts in your metamask wallet that owns BNB tokens. We would suggest you to [airdrop BNB tokens](https://testnet.bnbchain.org/faucet-smart) to one of your metamask's account and then transfer some founds (at least 0.1 BNB) to your other accounts.
 

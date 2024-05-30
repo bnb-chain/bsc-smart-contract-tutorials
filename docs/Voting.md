@@ -25,10 +25,10 @@ To deploy this contract, the following settings are required:
     - [Truffle page](https://trufflesuite.com/docs/truffle/how-to/install/)
     - [M1 installation](https://github.com/trufflesuite/truffle/issues/4431#issuecomment-969520019)
 - Metamask Account:
-    - [MetaMask For BNB Smart Chain](https://docs.bnbchain.org/docs/wallet/metamask/)
+    - [MetaMask For BNB Smart Chain](https://support.metamask.io/network-profiles/network-profile-bnb-smart-chain-bnb/)
     - [Create an additional account](https://metamask.zendesk.com/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet)
 
-Note: It is required to have 3 different accounts in your metamask wallet that owns BNB tokens. We would suggest you to [airdrop BNB tokens](https://testnet.bnbchain.org/faucet-smart) to one of your metamask's account and then transfer some founds (at least 0.1 BNB) to your other accounts.
+Note: It is required to have 3 different accounts in your metamask wallet that owns BNB tokens. We would suggest you to [airdrop BNB tokens](https://www.bnbchain.org/en/testnet-faucet) to one of your metamask's account and then transfer some founds (at least 0.1 BNB) to your other accounts.
 
 
 ## Initiation
